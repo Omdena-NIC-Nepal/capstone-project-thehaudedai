@@ -4,6 +4,7 @@
 
 This Streamlit application is an end-to-end data analysis and prediction tool focused on assessing the impacts of climate change in Nepal. The goal is to empower users—particularly data science learners—to explore, preprocess, model, and predict climate-related variables through an interactive and intuitive interface.
 
+You can view the live app here: [Capstone Project App](https://capstone-thehaudedai.streamlit.app/)
 ## 🌍 Project Overview
 
 The application offers a multi-page interface covering all major steps of a typical data science workflow:
